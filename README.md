@@ -2,7 +2,6 @@
 
 This project builds a Retrieval-Augmented Generation (RAG) chatbot using LangGraph, LangChain, and Groq API.
 The chatbot retrieves relevant information from documents before generating answers.
-
 ---
 
 ## Features
