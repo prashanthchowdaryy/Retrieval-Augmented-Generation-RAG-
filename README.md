@@ -13,7 +13,6 @@ The chatbot retrieves relevant information from documents before generating answ
 * Modular pipeline
 
 ---
-
 ## Tech Stack
 
 * Python
