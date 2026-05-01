@@ -10,7 +10,6 @@ The chatbot retrieves relevant information from documents before generating answ
 * Integrates Groq API
 * Context-aware responses
 * Modular pipeline
-
 ---
 ## Tech Stack
 
