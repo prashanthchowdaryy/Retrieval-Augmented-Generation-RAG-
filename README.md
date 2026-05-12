@@ -30,7 +30,6 @@ User Question → Retrieve Documents → Provide Context → Generate Answer
 ---
 
 ## How It Works
-
 1. User asks a question
 2. System retrieves relevant documents
 3. Context is passed to the model
