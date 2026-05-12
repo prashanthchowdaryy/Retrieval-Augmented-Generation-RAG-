@@ -5,6 +5,7 @@ The chatbot retrieves relevant information from documents before generating answ
 ---
 ## Features
 
+
 * RAG-based chatbot
 * Uses LangGraph workflow
 * Integrates Groq API
