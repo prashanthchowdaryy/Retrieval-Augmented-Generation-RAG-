@@ -19,7 +19,6 @@ The chatbot retrieves relevant information from documents before generating answ
 * Jupyter Notebook
 
 ---
-
 ## What is RAG
 
 RAG (Retrieval-Augmented Generation) is a method where the model retrieves relevant data before generating a response.
